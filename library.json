@@ -1,0 +1,40 @@
+[
+  {
+    "title":"Namal",
+    "author":"Nimra Ahmed",
+    "publication_year": 2023,
+    "genre": "Novel",
+    "read_status": false,
+    "added_data": "2025-6-5  11:34:50"
+  },
+  {
+    
+    "title":"Boring stuff python",
+    "author":"Albasti",
+    "publication_year": 2011,
+    "genre": "Prigramming",
+    "read_status": True,
+    "added_data": "2024-6-5  11:34:45"
+  },
+  {
+  "title":"Drillis Ertugrul",
+    "author":"Padri Yahya",
+    "publication_year": 2020,
+    "genre": "Programming",
+    "read_status": True,
+    "added_data": "2024-6-10  11:48:45"
+  },
+   {
+    "title":"Squid Game",
+    "author":"Baibora",
+    "publication_year": 2024,
+    "genre": "Series Drama",
+    "read_status": True,
+    "added_data": "2024-6-4  11:34:45"
+  },
+  
+]
+
+    
+    
+    
